@@ -1,0 +1,7 @@
+F:\SM  VITA\.NET\Day_01\Task_1\bin\Debug\Tak_1.exe.config
+F:\SM  VITA\.NET\Day_01\Task_1\bin\Debug\Tak_1.exe
+F:\SM  VITA\.NET\Day_01\Task_1\bin\Debug\Tak_1.pdb
+F:\SM  VITA\.NET\Day_01\Task_1\obj\Debug\Task_1.csproj.AssemblyReference.cache
+F:\SM  VITA\.NET\Day_01\Task_1\obj\Debug\Task_1.csproj.CoreCompileInputs.cache
+F:\SM  VITA\.NET\Day_01\Task_1\obj\Debug\Tak_1.exe
+F:\SM  VITA\.NET\Day_01\Task_1\obj\Debug\Tak_1.pdb
