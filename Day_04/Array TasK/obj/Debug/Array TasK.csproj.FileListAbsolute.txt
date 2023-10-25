@@ -1,0 +1,7 @@
+F:\SM  VITA\.NET\Day_04\Array TasK\bin\Debug\Array TasK.exe.config
+F:\SM  VITA\.NET\Day_04\Array TasK\bin\Debug\Array TasK.exe
+F:\SM  VITA\.NET\Day_04\Array TasK\bin\Debug\Array TasK.pdb
+F:\SM  VITA\.NET\Day_04\Array TasK\obj\Debug\Array TasK.csproj.AssemblyReference.cache
+F:\SM  VITA\.NET\Day_04\Array TasK\obj\Debug\Array TasK.csproj.CoreCompileInputs.cache
+F:\SM  VITA\.NET\Day_04\Array TasK\obj\Debug\Array TasK.exe
+F:\SM  VITA\.NET\Day_04\Array TasK\obj\Debug\Array TasK.pdb
