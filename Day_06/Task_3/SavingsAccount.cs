@@ -14,7 +14,7 @@ namespace Task_3
         }
         public void Withdraw(Double Ammount)
         {
-            if (Ammount >= Balance || (Balance - Ammount) != 2500)
+            if (Ammount >= Balance || (Balance - Ammount) <= 2500)
             {
                 Console.WriteLine("Sorry For the Inconvienece you can't Withdraw Ammount");
             }
