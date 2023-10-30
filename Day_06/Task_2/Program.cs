@@ -32,11 +32,21 @@ namespace Task_2
             }
             return r;
         }
+       public static int Counter(int []x,out int a)
+        {
+            a = x.Length;
+            return a;
+        }
+       
 
 
         static void Main(string[] args)
         {
             int[] r = Dojob(4, 31);
+            int count;
+            Console.WriteLine($"The Size of Array is {Counter(r,out count)} ");
+            Console.WriteLine();
+            
             foreach (int i in r)
             {
                 Console.WriteLine(i);
