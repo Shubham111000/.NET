@@ -1,7 +1,0 @@
-F:\SM  VITA\.NET\Day_04\Assignment 1\obj\Debug\Assignment 1.csproj.AssemblyReference.cache
-F:\SM  VITA\.NET\Day_04\Assignment 1\obj\Debug\Assignment 1.csproj.CoreCompileInputs.cache
-F:\SM  VITA\.NET\Day_04\Assignment 1\bin\Debug\Assignment 1.exe.config
-F:\SM  VITA\.NET\Day_04\Assignment 1\bin\Debug\Assignment 1.exe
-F:\SM  VITA\.NET\Day_04\Assignment 1\bin\Debug\Assignment 1.pdb
-F:\SM  VITA\.NET\Day_04\Assignment 1\obj\Debug\Assignment 1.exe
-F:\SM  VITA\.NET\Day_04\Assignment 1\obj\Debug\Assignment 1.pdb
