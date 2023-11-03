@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 F:\HackerRank\C++\AdoDotNet\bin\Debug\net7.0\AdoDotNet.exe
 F:\HackerRank\C++\AdoDotNet\bin\Debug\net7.0\AdoDotNet.deps.json
 F:\HackerRank\C++\AdoDotNet\bin\Debug\net7.0\AdoDotNet.runtimeconfig.json
@@ -62,3 +63,69 @@ F:\SM  VITA\.NET\Day_12\AdoDotNet\obj\Debug\net7.0\refint\AdoDotNet.dll
 F:\SM  VITA\.NET\Day_12\AdoDotNet\obj\Debug\net7.0\AdoDotNet.pdb
 F:\SM  VITA\.NET\Day_12\AdoDotNet\obj\Debug\net7.0\AdoDotNet.genruntimeconfig.cache
 F:\SM  VITA\.NET\Day_12\AdoDotNet\obj\Debug\net7.0\ref\AdoDotNet.dll
+=======
+F:\HackerRank\C++\AdoDotNet\bin\Debug\net7.0\AdoDotNet.exe
+F:\HackerRank\C++\AdoDotNet\bin\Debug\net7.0\AdoDotNet.deps.json
+F:\HackerRank\C++\AdoDotNet\bin\Debug\net7.0\AdoDotNet.runtimeconfig.json
+F:\HackerRank\C++\AdoDotNet\bin\Debug\net7.0\AdoDotNet.dll
+F:\HackerRank\C++\AdoDotNet\bin\Debug\net7.0\AdoDotNet.pdb
+F:\HackerRank\C++\AdoDotNet\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+F:\HackerRank\C++\AdoDotNet\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\HackerRank\C++\AdoDotNet\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\HackerRank\C++\AdoDotNet\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+F:\HackerRank\C++\AdoDotNet\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\HackerRank\C++\AdoDotNet\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+F:\HackerRank\C++\AdoDotNet\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\HackerRank\C++\AdoDotNet\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+F:\HackerRank\C++\AdoDotNet\bin\Debug\net7.0\System.Data.SqlClient.dll
+F:\HackerRank\C++\AdoDotNet\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+F:\HackerRank\C++\AdoDotNet\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+F:\HackerRank\C++\AdoDotNet\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+F:\HackerRank\C++\AdoDotNet\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\HackerRank\C++\AdoDotNet\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\HackerRank\C++\AdoDotNet\obj\Debug\net7.0\AdoDotNet.csproj.AssemblyReference.cache
+F:\HackerRank\C++\AdoDotNet\obj\Debug\net7.0\AdoDotNet.GeneratedMSBuildEditorConfig.editorconfig
+F:\HackerRank\C++\AdoDotNet\obj\Debug\net7.0\AdoDotNet.AssemblyInfoInputs.cache
+F:\HackerRank\C++\AdoDotNet\obj\Debug\net7.0\AdoDotNet.AssemblyInfo.cs
+F:\HackerRank\C++\AdoDotNet\obj\Debug\net7.0\AdoDotNet.csproj.CoreCompileInputs.cache
+F:\HackerRank\C++\AdoDotNet\obj\Debug\net7.0\AdoDotNet.csproj.CopyComplete
+F:\HackerRank\C++\AdoDotNet\obj\Debug\net7.0\AdoDotNet.dll
+F:\HackerRank\C++\AdoDotNet\obj\Debug\net7.0\refint\AdoDotNet.dll
+F:\HackerRank\C++\AdoDotNet\obj\Debug\net7.0\AdoDotNet.pdb
+F:\HackerRank\C++\AdoDotNet\obj\Debug\net7.0\AdoDotNet.genruntimeconfig.cache
+F:\HackerRank\C++\AdoDotNet\obj\Debug\net7.0\ref\AdoDotNet.dll
+F:\HackerRank\C++\AdoDotNet\bin\Debug\net7.0\ProductLayer.cs
+F:\HackerRank\C++\AdoDotNet\bin\Debug\net7.0\Appsettings.json
+F:\SM  VITA\.NET\Day_12\AdoDotNet\bin\Debug\net7.0\AdoDotNet.exe
+F:\SM  VITA\.NET\Day_12\AdoDotNet\bin\Debug\net7.0\ProductLayer.cs
+F:\SM  VITA\.NET\Day_12\AdoDotNet\bin\Debug\net7.0\Appsettings.json
+F:\SM  VITA\.NET\Day_12\AdoDotNet\bin\Debug\net7.0\AdoDotNet.deps.json
+F:\SM  VITA\.NET\Day_12\AdoDotNet\bin\Debug\net7.0\AdoDotNet.runtimeconfig.json
+F:\SM  VITA\.NET\Day_12\AdoDotNet\bin\Debug\net7.0\AdoDotNet.dll
+F:\SM  VITA\.NET\Day_12\AdoDotNet\bin\Debug\net7.0\AdoDotNet.pdb
+F:\SM  VITA\.NET\Day_12\AdoDotNet\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+F:\SM  VITA\.NET\Day_12\AdoDotNet\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\SM  VITA\.NET\Day_12\AdoDotNet\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\SM  VITA\.NET\Day_12\AdoDotNet\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+F:\SM  VITA\.NET\Day_12\AdoDotNet\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\SM  VITA\.NET\Day_12\AdoDotNet\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+F:\SM  VITA\.NET\Day_12\AdoDotNet\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\SM  VITA\.NET\Day_12\AdoDotNet\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+F:\SM  VITA\.NET\Day_12\AdoDotNet\bin\Debug\net7.0\System.Data.SqlClient.dll
+F:\SM  VITA\.NET\Day_12\AdoDotNet\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+F:\SM  VITA\.NET\Day_12\AdoDotNet\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+F:\SM  VITA\.NET\Day_12\AdoDotNet\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+F:\SM  VITA\.NET\Day_12\AdoDotNet\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\SM  VITA\.NET\Day_12\AdoDotNet\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\SM  VITA\.NET\Day_12\AdoDotNet\obj\Debug\net7.0\AdoDotNet.csproj.AssemblyReference.cache
+F:\SM  VITA\.NET\Day_12\AdoDotNet\obj\Debug\net7.0\AdoDotNet.GeneratedMSBuildEditorConfig.editorconfig
+F:\SM  VITA\.NET\Day_12\AdoDotNet\obj\Debug\net7.0\AdoDotNet.AssemblyInfoInputs.cache
+F:\SM  VITA\.NET\Day_12\AdoDotNet\obj\Debug\net7.0\AdoDotNet.AssemblyInfo.cs
+F:\SM  VITA\.NET\Day_12\AdoDotNet\obj\Debug\net7.0\AdoDotNet.csproj.CoreCompileInputs.cache
+F:\SM  VITA\.NET\Day_12\AdoDotNet\obj\Debug\net7.0\AdoDotNet.csproj.CopyComplete
+F:\SM  VITA\.NET\Day_12\AdoDotNet\obj\Debug\net7.0\AdoDotNet.dll
+F:\SM  VITA\.NET\Day_12\AdoDotNet\obj\Debug\net7.0\refint\AdoDotNet.dll
+F:\SM  VITA\.NET\Day_12\AdoDotNet\obj\Debug\net7.0\AdoDotNet.pdb
+F:\SM  VITA\.NET\Day_12\AdoDotNet\obj\Debug\net7.0\AdoDotNet.genruntimeconfig.cache
+F:\SM  VITA\.NET\Day_12\AdoDotNet\obj\Debug\net7.0\ref\AdoDotNet.dll
+>>>>>>> 8533598bdde4e849629f3dd01e0d14ebb9178421

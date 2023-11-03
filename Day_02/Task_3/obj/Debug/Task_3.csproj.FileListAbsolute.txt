@@ -1,0 +1,7 @@
+F:\SM  VITA\.NET\Day_02\Task_3\bin\Debug\Task_3.exe.config
+F:\SM  VITA\.NET\Day_02\Task_3\bin\Debug\Task_3.exe
+F:\SM  VITA\.NET\Day_02\Task_3\bin\Debug\Task_3.pdb
+F:\SM  VITA\.NET\Day_02\Task_3\obj\Debug\Task_3.csproj.AssemblyReference.cache
+F:\SM  VITA\.NET\Day_02\Task_3\obj\Debug\Task_3.csproj.CoreCompileInputs.cache
+F:\SM  VITA\.NET\Day_02\Task_3\obj\Debug\Task_3.exe
+F:\SM  VITA\.NET\Day_02\Task_3\obj\Debug\Task_3.pdb

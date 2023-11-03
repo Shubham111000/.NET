@@ -1,0 +1,14 @@
+D:\Practice\CA_AccountAPP\CA_AccountAPP\bin\Debug\net7.0\CA_AccountAPP.exe
+D:\Practice\CA_AccountAPP\CA_AccountAPP\bin\Debug\net7.0\CA_AccountAPP.deps.json
+D:\Practice\CA_AccountAPP\CA_AccountAPP\bin\Debug\net7.0\CA_AccountAPP.runtimeconfig.json
+D:\Practice\CA_AccountAPP\CA_AccountAPP\bin\Debug\net7.0\CA_AccountAPP.dll
+D:\Practice\CA_AccountAPP\CA_AccountAPP\bin\Debug\net7.0\CA_AccountAPP.pdb
+D:\Practice\CA_AccountAPP\CA_AccountAPP\obj\Debug\net7.0\CA_AccountAPP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\CA_AccountAPP\CA_AccountAPP\obj\Debug\net7.0\CA_AccountAPP.AssemblyInfoInputs.cache
+D:\Practice\CA_AccountAPP\CA_AccountAPP\obj\Debug\net7.0\CA_AccountAPP.AssemblyInfo.cs
+D:\Practice\CA_AccountAPP\CA_AccountAPP\obj\Debug\net7.0\CA_AccountAPP.csproj.CoreCompileInputs.cache
+D:\Practice\CA_AccountAPP\CA_AccountAPP\obj\Debug\net7.0\CA_AccountAPP.dll
+D:\Practice\CA_AccountAPP\CA_AccountAPP\obj\Debug\net7.0\refint\CA_AccountAPP.dll
+D:\Practice\CA_AccountAPP\CA_AccountAPP\obj\Debug\net7.0\CA_AccountAPP.pdb
+D:\Practice\CA_AccountAPP\CA_AccountAPP\obj\Debug\net7.0\CA_AccountAPP.genruntimeconfig.cache
+D:\Practice\CA_AccountAPP\CA_AccountAPP\obj\Debug\net7.0\ref\CA_AccountAPP.dll

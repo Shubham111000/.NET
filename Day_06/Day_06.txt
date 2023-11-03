@@ -1,0 +1,16 @@
+1) Write a method which will return sum of digit and using out variable let it send count of digit also. i/p input 123 return 6 in out  varible (3) 
+
+2) Write a method which will accept two number and return all even number between it as array and also give count in out variable.
+int count;
+int[] result = Dojob(5,30);
+
+3)Create class Account having member variable id,name, balance.
+Write getter/setter for id, name and balance
+create method deposit which will increase balance
+Create two child class currentaccount and saving account
+It has member type,
+In both the class create withdraw method who’ s job is to reduce balance.
+In currentaccount negative balance allowed
+In savingaccount –ve balance not allowed.
+When you load application it should print name of bank.
+New Savingaccount(1,”Raj”,50000,” “saving”)

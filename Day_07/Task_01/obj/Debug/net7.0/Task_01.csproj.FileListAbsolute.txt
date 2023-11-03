@@ -1,0 +1,14 @@
+F:\SM  VITA\.NET\Day_07\Task_01\obj\Debug\net7.0\Task_01.GeneratedMSBuildEditorConfig.editorconfig
+F:\SM  VITA\.NET\Day_07\Task_01\obj\Debug\net7.0\Task_01.AssemblyInfoInputs.cache
+F:\SM  VITA\.NET\Day_07\Task_01\obj\Debug\net7.0\Task_01.AssemblyInfo.cs
+F:\SM  VITA\.NET\Day_07\Task_01\obj\Debug\net7.0\Task_01.csproj.CoreCompileInputs.cache
+F:\SM  VITA\.NET\Day_07\Task_01\bin\Debug\net7.0\Task_01.exe
+F:\SM  VITA\.NET\Day_07\Task_01\bin\Debug\net7.0\Task_01.deps.json
+F:\SM  VITA\.NET\Day_07\Task_01\bin\Debug\net7.0\Task_01.runtimeconfig.json
+F:\SM  VITA\.NET\Day_07\Task_01\bin\Debug\net7.0\Task_01.dll
+F:\SM  VITA\.NET\Day_07\Task_01\bin\Debug\net7.0\Task_01.pdb
+F:\SM  VITA\.NET\Day_07\Task_01\obj\Debug\net7.0\Task_01.dll
+F:\SM  VITA\.NET\Day_07\Task_01\obj\Debug\net7.0\refint\Task_01.dll
+F:\SM  VITA\.NET\Day_07\Task_01\obj\Debug\net7.0\Task_01.pdb
+F:\SM  VITA\.NET\Day_07\Task_01\obj\Debug\net7.0\Task_01.genruntimeconfig.cache
+F:\SM  VITA\.NET\Day_07\Task_01\obj\Debug\net7.0\ref\Task_01.dll

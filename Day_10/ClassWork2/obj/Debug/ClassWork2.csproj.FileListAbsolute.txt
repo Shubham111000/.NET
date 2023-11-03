@@ -1,0 +1,7 @@
+F:\SM  VITA\.NET\Day_10\ClassWork2\bin\Debug\ClassWork2.exe.config
+F:\SM  VITA\.NET\Day_10\ClassWork2\bin\Debug\ClassWork2.exe
+F:\SM  VITA\.NET\Day_10\ClassWork2\bin\Debug\ClassWork2.pdb
+F:\SM  VITA\.NET\Day_10\ClassWork2\obj\Debug\ClassWork2.csproj.AssemblyReference.cache
+F:\SM  VITA\.NET\Day_10\ClassWork2\obj\Debug\ClassWork2.csproj.CoreCompileInputs.cache
+F:\SM  VITA\.NET\Day_10\ClassWork2\obj\Debug\ClassWork2.exe
+F:\SM  VITA\.NET\Day_10\ClassWork2\obj\Debug\ClassWork2.pdb
