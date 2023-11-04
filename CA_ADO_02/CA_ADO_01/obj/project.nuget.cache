@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qRzJe7K0aGzX+faLrhIp0U8ToIdPxbpWblrL1ofXfbtihsinQPoco6/CDyAG3f2XJpsv8OemGBLohwINaimwDg==",
+  "dgSpecHash": "4xFGlu4Atnio+kpvG+fQUESEV5Bi0j3wqd3DLZOUatGMzDTu8yxgCxhg7HcXjxJbgZ8tEx5JeS7Dk7bESw7eMg==",
   "success": true,
-  "projectFilePath": "F:\\SM  VITA\\gitHub\\.Net\\CA_ADO_01\\CA_ADO_01\\CA_ADO_01.csproj",
+  "projectFilePath": "F:\\SM  VITA\\gitHub\\.Net\\CA_ADO_02\\CA_ADO_01\\CA_ADO_01.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\shubh\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\shubh\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
