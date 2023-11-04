@@ -1,0 +1,93 @@
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\packages.config
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\CURD application.exe.config
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\CURD application.exe
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\CURD application.pdb
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\Azure.Core.dll
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\Azure.Identity.dll
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\Microsoft.Data.SqlClient.dll
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\Microsoft.Extensions.Configuration.dll
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\Microsoft.Extensions.Primitives.dll
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\Microsoft.Identity.Client.dll
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\Microsoft.IdentityModel.Logging.dll
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\System.Buffers.dll
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\System.Configuration.ConfigurationManager.dll
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\System.Memory.Data.dll
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\System.Memory.dll
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\System.Numerics.Vectors.dll
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\System.Security.AccessControl.dll
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\System.Security.Permissions.dll
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\System.Security.Principal.Windows.dll
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\System.Text.Encodings.Web.dll
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\System.Text.Json.dll
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\System.ValueTuple.dll
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\Azure.Core.xml
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\Azure.Identity.xml
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\Microsoft.Data.SqlClient.pdb
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\Microsoft.Data.SqlClient.xml
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\Microsoft.Extensions.Configuration.xml
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\Microsoft.Extensions.Primitives.xml
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\Microsoft.Identity.Client.xml
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\Microsoft.IdentityModel.Logging.xml
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\System.Buffers.xml
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\System.Configuration.ConfigurationManager.xml
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\System.Memory.xml
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\System.Memory.Data.xml
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\System.Numerics.Vectors.xml
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\System.Security.AccessControl.xml
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\System.Security.Permissions.xml
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\System.Security.Principal.Windows.xml
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\System.Text.Encodings.Web.xml
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\System.Text.Json.xml
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\System.ValueTuple.xml
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\obj\Debug\CURD application.csproj.AssemblyReference.cache
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\obj\Debug\CURD application.csproj.CoreCompileInputs.cache
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\obj\Debug\CURD application.csproj.CopyComplete
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\obj\Debug\CURD application.exe
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\obj\Debug\CURD application.pdb
+F:\SM  VITA\gitHub\.Net\Day_13\CURD application\bin\Debug\Appsettings.json
