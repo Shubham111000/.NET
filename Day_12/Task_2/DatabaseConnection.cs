@@ -41,7 +41,7 @@ namespace Task_2
                 {
                     //Create an instance of SqlCommand class, specifying the T-SQL command 
                     //that we want to execute, and the connection object.
-                    SqlCommand cmd = new SqlCommand("insert into Customer values ( 'Yash','Nagpur','1718569856')", con);
+                    SqlCommand cmd = new SqlCommand("DELETE FROM CUSTOMER WHERE ID 1002", con);
                     con.Open();
                     //Since we are performing an insert operation, use ExecuteNonQuery() 
                     //method of the command object. ExecuteNonQuery() method returns an 
@@ -51,14 +51,14 @@ namespace Task_2
 
                     //Set to CommandText to the update query. We are reusing the command object, 
                     //instead of creating a new command object
-                    cmd.CommandText = "update Customer set Name= 'Shubham Gaikwad' where Id = 1";
+                    cmd.CommandText = "update Customer set Name= 'Shubham Vitthal Gaikwad ' where Id = 1";
                     //use ExecuteNonQuery() method to execute the update statement on the database
                     rowsAffected = cmd.ExecuteNonQuery();
                     Console.WriteLine("Updated Rows = " + rowsAffected);
 
                     //Set to CommandText to the delete query. We are reusing the command object, 
                     //instead of creating a new command object
-                    cmd.CommandText = "Delete from Customer where Id = 3";
+                    cmd.CommandText = "Delete from Customer where Id = 1003";
                     //use ExecuteNonQuery() method to delete the row from the database
                     rowsAffected = cmd.ExecuteNonQuery();
                     Console.WriteLine("Deleted Rows = " + rowsAffected);
