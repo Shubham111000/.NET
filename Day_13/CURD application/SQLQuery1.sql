@@ -1,0 +1,5 @@
+﻿CREATE PROCEDURE [dbo].[@showData]
+AS
+BEGIN
+SELECT * FROM Customer
+END
