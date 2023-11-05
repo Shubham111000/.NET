@@ -15,13 +15,14 @@ namespace HRDatabaseEmployeeTable
         public static void Main()
         {
             GetAppsettingsFile();
-            ShowTable();
-            Update();
-            ShowTable();
-            Insert();
-            ShowTable();
-            Delete();
-            ShowTable() ;
+            Print_list();
+            Insert(new Employee { Name="Akshay S",Id=0,Address="Kolhapur",Gender="M",Salary=57000});           
+            Print_list();
+            Update(new Employee() { Name="Sushil",Address="Kannad",Id=10,Gender="M",Salary=52500},0);
+            Print_list();
+            Delete(10);
+            Print_list();
+            GetEmployee(1);
 
 
         }
@@ -31,11 +32,10 @@ namespace HRDatabaseEmployeeTable
                 AddJsonFile("Appsettings.json",optional:false,reloadOnChange:true);
             _iconfiguration= builder.Build();
         }
-        static void Insert() 
+        static void Insert(Employee e) 
         {
             StronglyType Strobj = new StronglyType(_iconfiguration);
-            Strobj.Insert_Employee(new Employee{ Name="Akshay",Salary
-            =55000,Gender='M',Address="Kolhapur",Id=2});
+            Strobj.Insert_Employee(e);
         }
         static void ShowTable() 
         {
@@ -43,18 +43,33 @@ namespace HRDatabaseEmployeeTable
             Strobj.Show_Table();
 
         }
-        static void Delete() 
+        static void Delete(int id) 
         {
             StronglyType Strobj = new StronglyType(_iconfiguration);
-            Strobj.Delete(2);
+            Strobj.Delete(id);
         }
-        static void Update() 
+        static void Update(Employee e,int id) 
         {
             StronglyType Strobj = new StronglyType(_iconfiguration);
-            Strobj.Update_Employee(new Employee
+            Strobj.Update_Employee(e, id);        
+        }
+        static void Print_list() 
+        {
+            StronglyType Strobj = new StronglyType(_iconfiguration);
+            var elist=Strobj.GetEmployees();
+            foreach ( var e in elist ) 
             {
-                Name = "Akshay",Salary= 55000,Gender = 'M',Address = "Kolhapur",Id = 4
-            },6);
+                Console.WriteLine("{0} {1} {2} {3} ", e.Id,e.Name,e.Salary,e.Address); 
+            }
+        }
+        static void GetEmployee(int i) 
+        {
+            StronglyType Strobj = new StronglyType(_iconfiguration);
+            var elist = Strobj.GetOneRecord(i);
+            foreach (var e in elist)
+            {
+                Console.WriteLine("{0} {1} {2} {3} ", e.Id, e.Name, e.Salary, e.Address);
+            }
         }
 
     }
