@@ -10,13 +10,16 @@ namespace Bank_of_Baroda
     {
         public static void Email(Account @ref, Double Ammount,Double Balance)
         {
+            Console.WriteLine("--------------------------------------------");
             Console.WriteLine("Email Sent");
             Console.WriteLine("Account Id =" + @ref.ID + " " + Ammount + "$" + " wihtdrawn and Updated Balance is " + Balance + "$");
         }
         public static void Message(Account @ref, Double Ammount, Double Balance)
         {
+            Console.WriteLine("--------------------------------------------");
             Console.WriteLine("Message Sent");
             Console.WriteLine("Account Id =" + @ref.ID + " " + Ammount + "$" + " wihtdrawn and Updated Balance is " + Balance + "$");
+            Console.WriteLine("--------------------------------------------");
 
         }
         

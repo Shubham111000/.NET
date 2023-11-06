@@ -24,17 +24,20 @@ namespace Bank_of_Baroda
         }
         static Account() 
         {
-            //Agent.AgentS();
+            Agent.AgentS();
             Console.WriteLine("Welcome To Bank of Baroda");
         }
         public Account(string name,Double balance)
         {
-            if (getid > 5)
-                throw new Exception("Caapacity Full");
+            if (getid <5) 
+            {
+                Name = name;
+                Balance = balance;
+                Id = ++getid;
+            }
             else
-            Name= name;
-            Balance = balance;
-            Id= ++getid;
+                throw new Exception("Capacity Full");
+
         }
         public int ID { get { return Id; } }
 
@@ -43,10 +46,10 @@ namespace Bank_of_Baroda
         {
             set
             {
-                if (value.Length > 2)
+                if (value.Length > 2&& value.Length<20)
                     name = value;
                 else
-                    throw new Exception();
+                    throw new Exception("Name is Not Valid");
             }
             get 
             {
@@ -66,19 +69,17 @@ namespace Bank_of_Baroda
         }
         public void Deposit(double Ammount) 
         {
-
-            Balance += Ammount;
-            Console.WriteLine("Account Id =" + Id + " " + Ammount + "$" + "  Deposited and updated Balance is " + Balance + "$");
-
+            if (Ammount > 0)
+            {
+                Balance += Ammount;
+                Console.WriteLine("Account Id =" + Id + " " + Ammount + "$" + "  Deposited and updated Balance is " + Balance + "$");
+            }
         }
+        public Double ShowBalnce() 
+        {
+           return  Balance;
+        }
+
         public abstract void Withdraw(Double Ammount);
-
-
-
-
-
-
-
-
     }
 }

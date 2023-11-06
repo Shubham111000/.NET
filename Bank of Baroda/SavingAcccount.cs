@@ -8,6 +8,7 @@ namespace Bank_of_Baroda
 {
     public class SavingAcccount : Account
     {
+        static double RateOfIntrest = 0.34;
         public  const Double minbal = 1000;
         public SavingAcccount(String Name, Double Balance) : base(Name, Balance) { }
         
@@ -25,5 +26,12 @@ namespace Bank_of_Baroda
 
             }    
         }
+        public static Double  Payintrest(SavingAcccount ref1) 
+        {
+            Double Intrest = ref1.Balance * RateOfIntrest;
+            ref1.Balance+=Intrest;
+            return Intrest;
+        } 
+        
     }
 }
