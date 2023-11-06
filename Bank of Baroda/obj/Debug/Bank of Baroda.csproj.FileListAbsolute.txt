@@ -1,0 +1,7 @@
+F:\SM  VITA\gitHub\.Net\Bank of Baroda\bin\Debug\Bank of Baroda.exe.config
+F:\SM  VITA\gitHub\.Net\Bank of Baroda\bin\Debug\Bank of Baroda.exe
+F:\SM  VITA\gitHub\.Net\Bank of Baroda\bin\Debug\Bank of Baroda.pdb
+F:\SM  VITA\gitHub\.Net\Bank of Baroda\obj\Debug\Bank of Baroda.csproj.AssemblyReference.cache
+F:\SM  VITA\gitHub\.Net\Bank of Baroda\obj\Debug\Bank of Baroda.csproj.CoreCompileInputs.cache
+F:\SM  VITA\gitHub\.Net\Bank of Baroda\obj\Debug\Bank of Baroda.exe
+F:\SM  VITA\gitHub\.Net\Bank of Baroda\obj\Debug\Bank of Baroda.pdb
