@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace InMemoryCURD
 {
-    public class IEmployeeeRepository
+    public interface IEmployeeeRepository
     {
         IEnumerable<Employee> GetAllEmployee();
         Employee Add(Employee employee);
