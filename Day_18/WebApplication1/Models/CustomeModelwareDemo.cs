@@ -4,8 +4,9 @@
     {
         public async Task InvokeAsync(HttpContext context, RequestDelegate next)
         {
-          await context.Response.WriteAsync("Abhya Maji Bayko");
-            await next(context);
+           // await next(context);
+            await context.Response.WriteAsync("hello world");
+            
         }
     }
 }

@@ -10,6 +10,7 @@ namespace WebApplication1
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+            builder.Services.AddTransient<CustomeModelwareDemo>();
 
             var app = builder.Build();
 
@@ -21,8 +22,10 @@ namespace WebApplication1
                 app.UseHsts();
             }
             app.UseMiddleware<CustomeModelwareDemo>();
+           //app.Run(async context => await context.Response.WriteAsync("Hello"));
+            
             /*
-             app.UseHttpsRedirection();
+            app.UseHttpsRedirection();
             app.UseStaticFiles();
 
             app.UseRouting();
@@ -34,7 +37,7 @@ namespace WebApplication1
                 pattern: "{controller=Home}/{action=Index}/{id?}");
             */
             //app.Run(async context=> await);
-            app.Run();
+           app.Run();
         }
     }
 }

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1ygtDbhdUsQ6uF9JCBY27+V1Nhy58nvsUiGenkcVUkaG9a34JAHN9vy7E6zi4xIVM2EqD5ogpcONSh3/1V1OGQ==",
+  "success": true,
+  "projectFilePath": "F:\\SM  VITA\\gitHub\\.Net\\Day_18\\WebAPICookie\\WebAPICookie.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shubh\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}
