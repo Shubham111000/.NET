@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\SM  VITA\\.NET\\WebAPI1\\WebAPI1.csproj": {}
+    "F:\\SM  VITA\\gitHub\\.Net\\Day_19\\WebAPI1\\WebAPI1.csproj": {}
   },
   "projects": {
-    "F:\\SM  VITA\\.NET\\WebAPI1\\WebAPI1.csproj": {
+    "F:\\SM  VITA\\gitHub\\.Net\\Day_19\\WebAPI1\\WebAPI1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\SM  VITA\\.NET\\WebAPI1\\WebAPI1.csproj",
+        "projectUniqueName": "F:\\SM  VITA\\gitHub\\.Net\\Day_19\\WebAPI1\\WebAPI1.csproj",
         "projectName": "WebAPI1",
-        "projectPath": "F:\\SM  VITA\\.NET\\WebAPI1\\WebAPI1.csproj",
+        "projectPath": "F:\\SM  VITA\\gitHub\\.Net\\Day_19\\WebAPI1\\WebAPI1.csproj",
         "packagesPath": "C:\\Users\\shubh\\.nuget\\packages\\",
-        "outputPath": "F:\\SM  VITA\\.NET\\WebAPI1\\obj\\",
+        "outputPath": "F:\\SM  VITA\\gitHub\\.Net\\Day_19\\WebAPI1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shubh\\AppData\\Roaming\\NuGet\\NuGet.Config",

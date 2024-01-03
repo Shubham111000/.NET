@@ -1,0 +1,14 @@
+C:\Users\shubh\OneDrive\Desktop\Q1\bin\Debug\net7.0\Q1.exe
+C:\Users\shubh\OneDrive\Desktop\Q1\bin\Debug\net7.0\Q1.deps.json
+C:\Users\shubh\OneDrive\Desktop\Q1\bin\Debug\net7.0\Q1.runtimeconfig.json
+C:\Users\shubh\OneDrive\Desktop\Q1\bin\Debug\net7.0\Q1.dll
+C:\Users\shubh\OneDrive\Desktop\Q1\bin\Debug\net7.0\Q1.pdb
+C:\Users\shubh\OneDrive\Desktop\Q1\obj\Debug\net7.0\Q1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubh\OneDrive\Desktop\Q1\obj\Debug\net7.0\Q1.AssemblyInfoInputs.cache
+C:\Users\shubh\OneDrive\Desktop\Q1\obj\Debug\net7.0\Q1.AssemblyInfo.cs
+C:\Users\shubh\OneDrive\Desktop\Q1\obj\Debug\net7.0\Q1.csproj.CoreCompileInputs.cache
+C:\Users\shubh\OneDrive\Desktop\Q1\obj\Debug\net7.0\Q1.dll
+C:\Users\shubh\OneDrive\Desktop\Q1\obj\Debug\net7.0\refint\Q1.dll
+C:\Users\shubh\OneDrive\Desktop\Q1\obj\Debug\net7.0\Q1.pdb
+C:\Users\shubh\OneDrive\Desktop\Q1\obj\Debug\net7.0\Q1.genruntimeconfig.cache
+C:\Users\shubh\OneDrive\Desktop\Q1\obj\Debug\net7.0\ref\Q1.dll

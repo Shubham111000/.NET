@@ -18,10 +18,20 @@ namespace WebAPI1.Controllers
         {
             return services.GetEmployees();
         }
-        [HttpGet("{id}")]
+        [HttpGet("{id:int}")]
         public Employee GetEmployee(int id) 
         {
             return services.GetEmployee(id);
+        }
+        [HttpGet("{FirstName}")]
+        public IEnumerable<Employee> GetEmployeesByName(String FirstName)
+        {
+            return services.GetEmployeeByName(FirstName);
+        }
+        [HttpGet("Address/{Address}")]
+        public IEnumerable<Employee> GetEmployeesByAddress(String Address)
+        {
+            return services.GetEmployeeByAddress(Address);
         }
         [HttpPut]
         public Employee PutEmployee(Employee employee,int id) 

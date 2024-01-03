@@ -10,5 +10,6 @@ namespace CurdEntityMVC.Models
         }
 
         public DbSet<Employee>Employees { get; set; }
+
     }
 }

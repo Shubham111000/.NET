@@ -1,4 +1,6 @@
-﻿namespace WebAPI1.Models
+﻿using System.Xml.Linq;
+
+namespace WebAPI1.Models
 {
     public class EmployeeServices : IServices
     {
@@ -7,7 +9,7 @@
         {
             employlist = new List<Employee>()
             {
-                new Employee() {FirstName="shubham",Id=1,LastName="Gaiwkad",Address="Solpaur"},
+                new Employee() {FirstName="shubham",Id=1,LastName="Gaiwkad",Address="Solapur"},
                 new Employee() {FirstName="Yash",Id=2,LastName="Hajare",Address="Nagapur"},
                 new Employee() {FirstName="Ajinkya",Id=3,LastName="Anawade",Address="kannad"}
             };
@@ -33,6 +35,16 @@
         {
             Employee employee = employlist.FirstOrDefault(a => a.Id == id);
             return employee;
+        }
+
+        public IEnumerable<Employee> GetEmployeeByAddress(string address)
+        {
+            return employlist.FindAll(a => a.Address == address);
+        }
+
+        public IEnumerable<Employee> GetEmployeeByName(string name)
+        {
+            return employlist.FindAll(a=>a.FirstName==name);
         }
 
         public IEnumerable<Employee> GetEmployees()
